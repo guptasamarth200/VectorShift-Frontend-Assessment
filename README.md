@@ -556,14 +556,6 @@ This project is developed as part of **VectorShift's technical assessment** and 
 
 ---
 
-## 📧 Contact
-
-For questions or feedback regarding this assessment:
-- **Email**: recruiting@vectorshift.ai
-- **Assessment**: VectorShift Frontend Technical Assessment
-
----
-
 <div align="center">
 
 **Built with ❤️ for VectorShift**
